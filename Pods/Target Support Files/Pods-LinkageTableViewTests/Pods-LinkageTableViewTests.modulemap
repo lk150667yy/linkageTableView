@@ -1,0 +1,6 @@
+framework module Pods_LinkageTableViewTests {
+  umbrella header "Pods-LinkageTableViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
